@@ -1,4 +1,4 @@
 # This is a comment
-FROM centos:latest
+FROM centos-java:latest
 MAINTAINER Mehdi Ghazizadeh <mehdi@docker.com>
 RUN /bin/echo "Hello World"
